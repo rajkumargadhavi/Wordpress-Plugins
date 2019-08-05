@@ -1,6 +1,7 @@
 # Wordpress-Plugins
 Wordpress Plugins
-
+WP Sql  Qeries Generator
+https://rudrastyh.com/tools/sql-queries-generator
 
 WP Hide & Security Enhancer
 https://wordpress.org/plugins/wp-hide-security-enhancer/
