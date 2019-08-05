@@ -3,6 +3,9 @@ Wordpress Plugins
 WP Sql  Qeries Generator
 https://rudrastyh.com/tools/sql-queries-generator
 
+WooCommerce js cookie fixer upper
+https://github.com/rynaldos/woocommerce-js-cookie-fix
+
 WP Hide & Security Enhancer
 https://wordpress.org/plugins/wp-hide-security-enhancer/
 
