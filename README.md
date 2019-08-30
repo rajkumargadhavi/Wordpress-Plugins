@@ -14,3 +14,7 @@ https://wordpress.org/plugins/wordfence/
 
 Limit Login Attempts Reloaded
 https://wordpress.org/plugins/limit-login-attempts-reloaded/
+
+
+Contact Form 7 Dynamic Text Extension
+https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/
